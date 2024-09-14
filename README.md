@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CharlotteVigy
+- 👀 I’m interested in building unique software that is useful to others
+- 🌱 I’m currently learning about web development 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am bilingual (French & English)
